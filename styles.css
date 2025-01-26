@@ -1,6 +1,6 @@
 html{
     display:flex; flex-direction:column; justify-content:center; align-items:center;
-    background: rgb(120,120,120);
+    background: white;
     overflow-x: hidden;
     overflow-y: scroll;
 }
